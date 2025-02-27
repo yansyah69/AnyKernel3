@@ -5,15 +5,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=xradens kernel by xradens @ github
+kernel.string=Absolute-Being kernel by yan @ github
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=
-device.name2=
-supported.versions=
+device.name1=surya
+device.name2=karna
+supported.versions=11-15
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
