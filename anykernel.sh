@@ -5,7 +5,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Absolute-Being kernel by yan @ github
+kernel.string=build kernel by yan @ github
 do.devicecheck=1
 do.modules=0
 do.systemless=1
